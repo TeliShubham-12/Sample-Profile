@@ -1,0 +1,15 @@
+D:\ClonnigApp\bin\Debug\net6.0\ClonnigApp.exe
+D:\ClonnigApp\bin\Debug\net6.0\ClonnigApp.deps.json
+D:\ClonnigApp\bin\Debug\net6.0\ClonnigApp.runtimeconfig.json
+D:\ClonnigApp\bin\Debug\net6.0\ClonnigApp.dll
+D:\ClonnigApp\bin\Debug\net6.0\ClonnigApp.pdb
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.csproj.AssemblyReference.cache
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.AssemblyInfoInputs.cache
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.AssemblyInfo.cs
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.csproj.CoreCompileInputs.cache
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.dll
+D:\ClonnigApp\obj\Debug\net6.0\refint\ClonnigApp.dll
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.pdb
+D:\ClonnigApp\obj\Debug\net6.0\ClonnigApp.genruntimeconfig.cache
+D:\ClonnigApp\obj\Debug\net6.0\ref\ClonnigApp.dll
