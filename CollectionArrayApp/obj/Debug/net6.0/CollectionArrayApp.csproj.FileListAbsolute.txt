@@ -1,0 +1,15 @@
+D:\CollectionArrayApp\bin\Debug\net6.0\CollectionArrayApp.exe
+D:\CollectionArrayApp\bin\Debug\net6.0\CollectionArrayApp.deps.json
+D:\CollectionArrayApp\bin\Debug\net6.0\CollectionArrayApp.runtimeconfig.json
+D:\CollectionArrayApp\bin\Debug\net6.0\CollectionArrayApp.dll
+D:\CollectionArrayApp\bin\Debug\net6.0\CollectionArrayApp.pdb
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.csproj.AssemblyReference.cache
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.AssemblyInfoInputs.cache
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.AssemblyInfo.cs
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.csproj.CoreCompileInputs.cache
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.dll
+D:\CollectionArrayApp\obj\Debug\net6.0\refint\CollectionArrayApp.dll
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.pdb
+D:\CollectionArrayApp\obj\Debug\net6.0\CollectionArrayApp.genruntimeconfig.cache
+D:\CollectionArrayApp\obj\Debug\net6.0\ref\CollectionArrayApp.dll
