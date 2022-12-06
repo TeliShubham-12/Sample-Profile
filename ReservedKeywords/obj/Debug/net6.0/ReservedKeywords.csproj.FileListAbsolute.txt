@@ -1,0 +1,15 @@
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.csproj.AssemblyReference.cache
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.AssemblyInfoInputs.cache
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.AssemblyInfo.cs
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.csproj.CoreCompileInputs.cache
+D:\ReservedKeywords\bin\Debug\net6.0\ReservedKeywords.exe
+D:\ReservedKeywords\bin\Debug\net6.0\ReservedKeywords.deps.json
+D:\ReservedKeywords\bin\Debug\net6.0\ReservedKeywords.runtimeconfig.json
+D:\ReservedKeywords\bin\Debug\net6.0\ReservedKeywords.dll
+D:\ReservedKeywords\bin\Debug\net6.0\ReservedKeywords.pdb
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.dll
+D:\ReservedKeywords\obj\Debug\net6.0\refint\ReservedKeywords.dll
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.pdb
+D:\ReservedKeywords\obj\Debug\net6.0\ReservedKeywords.genruntimeconfig.cache
+D:\ReservedKeywords\obj\Debug\net6.0\ref\ReservedKeywords.dll

@@ -1,0 +1,15 @@
+D:\SimpleDemoApp\bin\Debug\net6.0\SimpleDemoApp.exe
+D:\SimpleDemoApp\bin\Debug\net6.0\SimpleDemoApp.deps.json
+D:\SimpleDemoApp\bin\Debug\net6.0\SimpleDemoApp.runtimeconfig.json
+D:\SimpleDemoApp\bin\Debug\net6.0\SimpleDemoApp.dll
+D:\SimpleDemoApp\bin\Debug\net6.0\SimpleDemoApp.pdb
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.csproj.AssemblyReference.cache
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.AssemblyInfoInputs.cache
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.AssemblyInfo.cs
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.csproj.CoreCompileInputs.cache
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.dll
+D:\SimpleDemoApp\obj\Debug\net6.0\refint\SimpleDemoApp.dll
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.pdb
+D:\SimpleDemoApp\obj\Debug\net6.0\SimpleDemoApp.genruntimeconfig.cache
+D:\SimpleDemoApp\obj\Debug\net6.0\ref\SimpleDemoApp.dll
